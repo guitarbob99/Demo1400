@@ -2,6 +2,9 @@ package edu.gatech.cs2340.demo1400;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+/**
+*  from cmd line
+*/
 
 /**
  * sldjkfnskjsndfg

@@ -6,6 +6,10 @@ import android.os.Bundle;
 *  from cmd line
 */
 public class MainActivity extends AppCompatActivity {
+    //s,lfngsdlf
+    //sldfkgnslfkg
+    //slkfngslg
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
